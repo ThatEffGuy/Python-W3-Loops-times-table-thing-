@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonW3 Loops Craig Ferguson", "PythonW3 Loops Craig Ferguson\PythonW3 Loops Craig Ferguson.pyproj", "{1C49532C-22E6-42F3-8607-BD2BF07F67CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C49532C-22E6-42F3-8607-BD2BF07F67CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C49532C-22E6-42F3-8607-BD2BF07F67CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {690222B2-17EB-4688-831A-F9720666584B}
+	EndGlobalSection
+EndGlobal
